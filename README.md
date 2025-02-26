@@ -1,16 +1,15 @@
-## Hi there 👋
+## Olá, Eu sou o Arthur! 👋
 
-<!--
-**arthurcosta33/arthurcosta33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--  
 
-Here are some ideas to get you started:
+Sobre mim:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente, estou estudando na Rocketseat e me preparando para ingressar na faculdade de Sistemas de Informação.  
+- 🌱 Estou aprendendo desenvolvimento web, explorando o ecossistema JavaScript, além de Python, SQL, HTML5 e HTTP.  
+- 👯 Busco colaborar em projetos de desenvolvimento web para ganhar mais experiência prática.  
+- 🤔 Estou sempre aberto a aprender novas tecnologias e aprimorar minhas habilidades em programação.  
+- 💬 Pergunte-me sobre criação e personalização de lojas virtuais na Nuvemshop e Tray.  
+- 📫 Como me encontrar: [seu e-mail ou LinkedIn].  
+- ⚡ Curiosidade: Tenho 3 anos de experiência com e-commerce e estou focado em me tornar um desenvolvedor Full Stack.  
+-->  
+

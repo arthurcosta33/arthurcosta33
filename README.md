@@ -10,4 +10,5 @@ Sobre mim:
 - 📫 Como me encontrar: https://www.linkedin.com/in/arthur-costa-467240255/.  
 - ⚡ Curiosidade: Tenho 3 anos de experiência com e-commerce e estou focado em me tornar um desenvolvedor Full Stack.  
 
+Let´s rock the future!
 

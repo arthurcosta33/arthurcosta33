@@ -2,8 +2,7 @@
 
 Sobre mim:
 
-- 🔭 Atualmente, estou estudando na Rocketseat e me preparando para ingressar na faculdade de Sistemas de Informação.  
-- 🌱 Estou aprendendo desenvolvimento web, explorando o ecossistema JavaScript, além de Python, SQL, HTML5 e HTTP.  
+- 🖥️ Desenvolvedor Web
 - 👯 Busco colaborar em projetos de desenvolvimento web para ganhar mais experiência prática.  
 - 🤔 Estou sempre aberto a aprender novas tecnologias e aprimorar minhas habilidades em programação.  
 - 💬 Pergunte-me sobre criação e personalização de lojas virtuais na Nuvemshop e Tray.  

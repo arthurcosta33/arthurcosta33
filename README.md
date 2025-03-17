@@ -5,10 +5,14 @@
 Me chamo Arthur Costa, tenho 17 anos e sou natural de Minas Gerais. Atualmente, sou um estudante ativo na Rocketseat e futuro graduando na área de Sistemas de Informação. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu LinkedIn "[Arthur Costa](https://www.linkedin.com/in/arthur-costa-467240255/)", onde publico todas as minhas experiências profissionais, projetos concluídos e processos!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/arthur-costa-467240255/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/arthur-costa-467240255/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn"
+      title="Me siga no LinkedIn"
+    />
       
-
-<a href="https://github.com/arthurcostta33?tab=followers">
+  <a href="https://github.com/arthurcostta33?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
@@ -18,7 +22,7 @@ Me chamo Arthur Costa, tenho 17 anos e sou natural de Minas Gerais. Atualmente, 
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/arthurcosta33?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://img.shields.io/github/stars/arthurcosta33?affiliations=OWNER&color=55960c&style=for-the-badge&labelColor=2e650e&label=⭐ Estrelas"
         />
     </a>
 </p>

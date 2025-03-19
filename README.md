@@ -12,7 +12,7 @@ Me chamo Arthur Costa, tenho 17 anos e sou natural de Minas Gerais. Atualmente, 
       title="Me siga no LinkedIn"
     />
       
-  <a href="https://github.com/arthurcostta33?tab=followers">
+  <a href="https://github.com/arthurcosta33?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 

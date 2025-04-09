@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Arthur Costa
 
-**`Aspirante a Desenvolvedor FullStack`**
+**`Desenvolvedor Web`**
 
 Me chamo Arthur Costa, tenho 17 anos e sou natural de Minas Gerais. Atualmente, sou um estudante ativo na Rocketseat e futuro graduando na área de Sistemas de Informação. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu LinkedIn "[Arthur Costa](https://www.linkedin.com/in/arthur-costa-467240255/)", onde publico todas as minhas experiências profissionais, projetos concluídos e processos!
 
